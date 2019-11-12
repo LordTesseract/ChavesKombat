@@ -1,0 +1,65 @@
+Proposta do jogo:
+
+
+O jogo consiste em lutas entre 5 personagens do Chaves, comparados a personagens do Mortal Kombat 1.
+
+O jogo vai possuir as seguintes telas:
+    - Abertura e logos;
+    - Menu com as opções: Fight! (vai para a seleção de personagens), Options (Opções de Som), Credits e Exit;
+    - seleção de personagens;
+    - Luta, onde haverão 9 cenários possíveis:
+        1) Pátio 1 da Vila;
+        2) Pátio 2 da Vila;
+        3) Escola;
+        4) Casa do Madruga;
+        5) Casa da Florinda;
+        6) Campo de Futebol Americano;
+        7) Porta da Vila;
+        8) Barbearia do Madruga;
+        9) Restaurante da Florinda.
+    
+    Caso a IA seja implementada, o cenário "Escola" sera apenas para o Boss Final (Jirafales).
+
+Movimentos:
+
+Todos os personagens terão a habilidade de:
+    - Chute alto e Baixo;
+    - Soco Alto e baixo;
+    - Chute e soco pulando;
+    - Chute e soco Agachado;
+    Além de movimentos triviais, como andar, pular e abaixar.
+    Pode haver a possibilidade da implementação de um bloqueio.
+
+
+Os personagens jogáveis poderão realizar os movimentos acima, além de poderem, de forma particular:
+Chaves (Liu Kang)
+    Movimentos Extras:
+            Shadow Kick: Ele avança em direção ao Oponente com um chute alto.
+            Green Bolt: Um raio verde é lançado no inimigo.
+
+Madruga (Scorpion)
+    Movimentos Extras:
+            Spear: Envia um gancho que puxa o inimigo para perto.
+            Teleport: Ele se lança para trás e aparece atrás do inimigo.
+    
+Quico (Raiden)
+        Movimentos Extras:
+            Lightning: Envia um raio no inimigo.
+            TOrpedo: Ele se lança em direção ao inimigo.
+
+Chiquinha (Sub-Zero)
+        Movimentos Extras:
+            Ice Freeze: Manda um raio congelante pra frente.
+            Ice Rain: Manda um raio congelante pra cima.
+
+Florinda (Jhonny Cage)
+        Movimentos Extras:
+            Shadow Kick: Um chute alto que atravessa a tela até atingir o adversário.
+            Green Bolt: Um raio verde.
+
+E, caso uma IA seja implementada, teremos o Prof. Jirafales como Shang Tsung. 
+        Ele pode se transformar em outros jogadores e usar suas magias.
+
+A princípio, a tela de luta tera apenas uma barra de energia, contador de lutas (vencendo duas lutas, a luta com aquele oponente termina) e contador de tempo.
+
+De forma Bônus, poderá ser implementado um Fatality (Apenas desejável, não essencial).
